@@ -2,8 +2,7 @@
 A Power BI Analysis on PalmorIa Group Gender Equality Crisis
 
 
-
-<img width="1098" height="635" alt="palmoria Dashboard" src="https://github.com/user-attachments/assets/970dd6cb-8210-488f-aa7f-cfce960b040c" />
+<img width="1098" height="635" alt="palmoria Dashboard" src="https://github.com/user-attachments/assets/022b1dc5-c1e4-4829-828c-0de1d9ba7453" />
 
 
 
