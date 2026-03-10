@@ -35,9 +35,9 @@ This project addresses a critical HR crisis at **Palmoria Group**, a manufacturi
 
 * **Custom Measures**: Created complex measures for **Average Salary by Gender**, **Gender Pay Gap %**, and **Staff Below $90k Minimum Wage**.
 * **Conditional Logic**: Built a dynamic **Annual Bonus** system using `SWITCH` logic based on performance:
-* Rating 5: 15% Bonus
-* Rating 4: 10% Bonus
-* Rating 3: 5% Bonusas requested by management.
+ Rating 5: 15% Bonus,
+ Rating 4: 10% Bonus,
+ Rating 3: 5% Bonus as requested by management.
 
 ## Recommendations
 Immediate Action: Management must adjust the salaries of the 653 non-compliant staff to meet legal requirements and avoid regulatory penalties.
