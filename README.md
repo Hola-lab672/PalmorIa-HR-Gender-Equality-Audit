@@ -1,5 +1,5 @@
 # PalmorIa-HR-Gender-Equality-Audit
-A Power BI Analysis on PalmorIa Group Gender Equality Crisis
+### A Power BI Analysis on PalmorIa Group Gender Equality Crisis
 
 
 <img width="1098" height="635" alt="palmoria Dashboard" src="https://github.com/user-attachments/assets/022b1dc5-c1e4-4829-828c-0de1d9ba7453" />
